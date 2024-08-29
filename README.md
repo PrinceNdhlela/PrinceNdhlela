@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @PrinceNdhlela
+- 👋 Hi, I’m @Prince Ndhlela
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me, please email at pndhlela@datacentrix.co.za
-- 😄 Pronouns: He
+- 💞️ I’m looking to collaborate on project.
+- 📫 How to reach me, please email me at pndhlela@datacentrix.co.za
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I read at least one new book every week.
 
 <!---
